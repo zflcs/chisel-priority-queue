@@ -1,0 +1,8 @@
+.bloop/
+.metals/
+.vscode/
+project/
+target/
+*.json
+*.fir
+*.v
